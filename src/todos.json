@@ -1,0 +1,22 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "date": "today",
+            "description": "lorem",
+            "toEdit": true
+        },
+        {
+            "title": "Task 2",
+            "date": "today",
+            "description": "lorem",
+            "toEdit": false
+        },
+        {
+            "title": "Task 3",
+            "date": "today",
+            "description": "lorem",
+            "toEdit": false
+        }
+    ]
+}
